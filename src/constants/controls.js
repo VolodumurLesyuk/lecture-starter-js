@@ -5,6 +5,6 @@ const controls = {
     PlayerTwoBlock: 'KeyL',
     PlayerOneCriticalHitCombination: ['KeyQ', 'KeyW', 'KeyE'],
     PlayerTwoCriticalHitCombination: ['KeyU', 'KeyI', 'KeyO']
-};
-
-export default controls;
+  };
+  
+  export default controls;
